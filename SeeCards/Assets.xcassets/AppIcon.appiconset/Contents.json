@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "Skjermbilde 2023-07-02 kl. 18.47.50.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

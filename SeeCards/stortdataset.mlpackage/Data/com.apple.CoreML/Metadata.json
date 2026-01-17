@@ -1,0 +1,19 @@
+{
+  "MLModelVersionStringKey" : "8.3.226",
+  "MLModelDescriptionKey" : "Ultralytics YOLO11s model trained on \/content\/datasets\/Playing-Cards-4\/data.yaml",
+  "MLModelCreatorDefinedKey" : {
+    "stride" : "32",
+    "Confidence threshold" : "0.25",
+    "IoU threshold" : "0.7",
+    "channels" : "3",
+    "task" : "detect",
+    "docs" : "https:\/\/docs.ultralytics.com",
+    "imgsz" : "[640, 640]",
+    "date" : "2025-11-07T20:21:47.379071",
+    "batch" : "1",
+    "args" : "{'batch': 1, 'half': False, 'int8': False, 'dynamic': False, 'nms': True}",
+    "names" : "{0: '10C', 1: '10D', 2: '10H', 3: '10S', 4: '2C', 5: '2D', 6: '2H', 7: '2S', 8: '3C', 9: '3D', 10: '3H', 11: '3S', 12: '4C', 13: '4D', 14: '4H', 15: '4S', 16: '5C', 17: '5D', 18: '5H', 19: '5S', 20: '6C', 21: '6D', 22: '6H', 23: '6S', 24: '7C', 25: '7D', 26: '7H', 27: '7S', 28: '8C', 29: '8D', 30: '8H', 31: '8S', 32: '9C', 33: '9D', 34: '9H', 35: '9S', 36: 'AC', 37: 'AD', 38: 'AH', 39: 'AS', 40: 'JC', 41: 'JD', 42: 'JH', 43: 'JS', 44: 'KC', 45: 'KD', 46: 'KH', 47: 'KS', 48: 'QC', 49: 'QD', 50: 'QH', 51: 'QS'}"
+  },
+  "MLModelAuthorKey" : "Ultralytics",
+  "MLModelLicenseKey" : "AGPL-3.0 License (https:\/\/ultralytics.com\/license)"
+}
